@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v3830_101 {
+  width: 100%;
+  height: 1096px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3830_116 {
+  width: 449px;
+  color: rgba(55,63,65,1);
+  position: absolute;
+  top: 249px;
+  left: 160px;
+  font-family: Mulish;
+  font-weight: Bold;
+  font-size: 44px;
+  opacity: 1;
+  text-align: left;
+}
+.v3830_117 {
+  width: 449px;
+  color: rgba(115,123,125,1);
+  position: absolute;
+  top: 465px;
+  left: 160px;
+  font-family: Mulish;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v3830_146 {
+  width: 304px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 561px;
+  left: 891px;
+  font-family: Noticia Text;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v3835_113 {
+  width: 418px;
+  height: 266px;
+  background: url("../images/v3835_113.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 217px;
+  left: 834px;
+  overflow: hidden;
+}
+.v3835_114 {
+  width: 418px;
+  height: 246px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  left: 0px;
+  border: 1.3472222089767456px solid rgba(60,99,176,1);
+}
+.v3835_115 {
+  width: 418px;
+  height: 246px;
+  background: rgba(0,119,182,1);
+  opacity: 0.10000000149011612;
+  position: absolute;
+  top: 19px;
+  left: 0px;
+}
+.v3835_116 {
+  width: 418px;
+  height: 24px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 1.3472222089767456px solid rgba(3,4,94,1);
+}
+.v3835_117 {
+  width: 6px;
+  height: 6px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 31px;
+  border: 1.3472222089767456px solid rgba(60,99,176,1);
+}
+.v3835_118 {
+  width: 6px;
+  height: 6px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  border: 1.3472222089767456px solid rgba(60,99,176,1);
+}
+.v3835_119 {
+  width: 6px;
+  height: 6px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 7px;
+  border: 1.3472222089767456px solid rgba(60,99,176,1);
+}
