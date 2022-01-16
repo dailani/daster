@@ -18,7 +18,7 @@
     <link href="./css/navigation.css" rel="stylesheet"/>
 
 </head>
-<body>
+<div>
 <div class="v3837_101">
     <div class="v3837_185">
         <span class="v3837_187">Our Services</span
@@ -59,6 +59,7 @@
             iuvaret vulputate sed.</span
     >
     </div>
+</div>
 </div>
 </div>
 </div>
