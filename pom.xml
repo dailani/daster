@@ -36,6 +36,11 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.objectfabric</groupId>
+            <artifactId>objectfabric-gwt</artifactId>
+            <version>0.9</version>
+        </dependency>
     </dependencies>
 
     <build>

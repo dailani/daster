@@ -6,13 +6,16 @@
         <exploded>true</exploded>
         <module>daster</module>
         <packaging>war</packaging>
-        <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="daster" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.objectfabric:objectfabric-gwt:0.9" />
+          <element id="library" level="project" name="Maven: org.objectfabric:objectfabric-api:0.9" />
         </element>
       </element>
       <element id="directory" name="META-INF">

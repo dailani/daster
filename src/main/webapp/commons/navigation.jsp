@@ -9,9 +9,10 @@
 
 <link href="../css/navigation.css" rel="stylesheet" />
 <div class="nav">
-        <span class="nav_contact">Contact us</span
-        ><a class="nav_home" href="/dastertech" >Home</a
-><a class="nav_services" href="/dastertech/OurServices"> Our Services</a
-><a class="nav_aboutus" href="/dastertech/AboutUs">About us</a
-><span class="nav_logo">DASTER TECH</span>
+        <a class="nav_contact" href="/dastertech/ContactUs">Contact us</a>
+<a class="nav_home" href="/dastertech" >Home</a>
+<a class="nav_services" href="/dastertech/OurServices"> Our Services</a>
+<a class="nav_aboutus" href="/dastertech/AboutUs">About us</a>
+<span class="nav_logo">DASTER TECH</span>
+
 </div>
